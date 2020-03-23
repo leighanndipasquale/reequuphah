@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aikeiphair.forges.work/sitemap.xml
